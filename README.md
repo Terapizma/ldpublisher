@@ -45,4 +45,4 @@ Uygulamayı sıfırdan derlemekle uğraşmanıza gerek yok, sizin için en stabi
 Bu yazılım bağımsız olarak geliştirilmiştir ve Valve Corporation ile hiçbir resmi bağlantısı veya ortaklığı bulunmamaktadır. Left 4 Dead 2, Steam ve Steamworks, Valve Corporation'ın tescilli markalarıdır. Uygulama üzerinden yayınlanan veya indirilen içeriklerin telif ve kullanım sorumluluğu tamamen kullanıcıya aittir.
 
 ---
-**Geliştirici:** Alp | *Topluluk için, topluluktan biri tarafından büyük bir tutkuyla geliştirildi.* 🩸
+**Geliştirici:** Terapizma | *Topluluk için, topluluktan biri tarafından büyük bir tutkuyla geliştirildi.* 🩸
