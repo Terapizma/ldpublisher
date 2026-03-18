@@ -10,7 +10,7 @@
 
 Uygulamayı kullanmaya başlamak için aşağıdaki butona tıklayarak en son sürüm kurulum dosyasını indirebilirsiniz:
 
-[![İndir LDPUBLISHER](https://img.shields.io/badge/LDPUBLISHER-Hemen_İndir_(v1.0.0)-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/alpcaliskan/ldpublisher/releases/latest/download/LDPUBLISHER_Setup.exe)
+[![İndir LDPUBLISHER](https://img.shields.io/badge/LDPUBLISHER-Hemen_İndir_(v1.0.0)-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Terapizma/ldpublisher/releases/download/v1.0.0/LDPUBLISHER_Setup.exe)
 
 ---
 
